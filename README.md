@@ -2,7 +2,7 @@
 Desenvolvedora Back-End Especialista em .NET | Arquitetura de Soluções
 <p align="left"> 
 Sou desenvolvedora back-end focada no desenvolvimento de sistemas utilizando .NET. Também possuo experiência com Node.js no back-end e conhecimento em React.js e Angular.js no front-end.
-Possuo pós-graduação em Arquitetura de Soluções pela FIAP, onde aprofundei minhas habilidades em planejamento de sistemas modernos e orientados a microsserviços.
+Possuo pós-graduação em Arquitetura de Soluções pela FIAP, onde aprofundei minhas habilidades no planejamento de sistemas robustos e escaláveis.
 Atualmente estou estudando Dart e Inglês 🤓
 </p>
 
