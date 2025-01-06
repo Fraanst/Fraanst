@@ -13,7 +13,7 @@ ________________________________________________________________________________
 </br>
 
 <a href="https://github.com/fraanst" title="Perfil da Fran">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fraanst&theme=dracula&show_icons=true" />
 </a>
 
 ____________________________________________________________________________________________________________________________________________
