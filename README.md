@@ -3,10 +3,12 @@
 Sou desenvolvedora back-end focada no desenvolvimento de sistemas utilizando .NET. 
 Possuo pós-graduação em Arquitetura de Soluções pela FIAP, onde aprofundei minhas habilidades no planejamento de sistemas robustos e escaláveis.
 </p>
-</br>
+
 ____________________________________________________________________________________________________________________________________________
+
 - 🎓 Estudando Dart e Inglês </br>
 - 💼 Trabalhando como Desenvolvedora de Software Pleno na GFT alocada no time PJ Atacado do banco BMG. </br>
+
 ____________________________________________________________________________________________________________________________________________
 </br>
 
@@ -14,8 +16,8 @@ ________________________________________________________________________________
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
 </a>
 
-</br>
 ____________________________________________________________________________________________________________________________________________
+</br>
 
 <p align="center">
 
