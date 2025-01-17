@@ -8,14 +8,12 @@ ________________________________________________________________________________
 
 - 🎓 Estudando Dart e Inglês </br>
 - 💼 Trabalhando como Desenvolvedora de Software Pleno na GFT alocada no time PJ Atacado do banco BMG. </br>
-
 ____________________________________________________________________________________________________________________________________________
 </br>
 
 <a href="https://github.com/fraanst" title="Perfil da Fran">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fraanst&theme=dracula&show_icons=true" />
 </a>
-
 ____________________________________________________________________________________________________________________________________________
 </br>
 
@@ -84,7 +82,6 @@ ________________________________________________________________________________
 </br>
 </br>
 ____________________________________________________________________________________________________________________________________________
-
 <p align="left">
   <a href="https://www.linkedin.com/in/franstramantinoli" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/franstramantinoli")" alt="LinkedIn"/></a>
