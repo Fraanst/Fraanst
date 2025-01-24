@@ -6,7 +6,7 @@ Possuo pós-graduação em Arquitetura de Soluções pela FIAP, onde aprofundei 
 
 ____________________________________________________________________________________________________________________________________________
 
-- 🎓 Estudando Dart e Inglês </br>
+- 🎓 Estudando Inglês </br>
 - 💼 Trabalhando como Desenvolvedora de Software Pleno na GFT alocada no time PJ Atacado do banco BMG. </br>
 ____________________________________________________________________________________________________________________________________________
 </br>
