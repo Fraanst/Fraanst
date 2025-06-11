@@ -5,9 +5,7 @@ Possuo pós-graduação em Arquitetura de Soluções pela FIAP, onde aprofundei 
 </p>
 
 ____________________________________________________________________________________________________________________________________________
-
-- 🎓 Estudando Inglês </br>
-- 💼 Trabalhando como Desenvolvedora de Software Pleno na GFT alocada no time PJ Atacado do banco BMG. </br>
+- 💼 Engenheira de Software no Itaú </br>
 ____________________________________________________________________________________________________________________________________________
 </br>
 
