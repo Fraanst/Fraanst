@@ -19,7 +19,6 @@ ________________________________________________________________________________
 <code><img height="32" src="https://w7.pngwing.com/pngs/929/60/png-transparent-net-framework-c-net-core-software-framework-mono-studio-purple-studio-violet-thumbnail.png" alt="C#"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Dart-logo.png/900px-Dart-logo.png" alt="Dart"/></code>
 
 **Frameworks e Bibliotecas Front-End**
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React"/></code>
