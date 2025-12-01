@@ -3,9 +3,9 @@
 Sou desenvolvedora back-end focada no desenvolvimento de sistemas utilizando .NET. 
 Possuo pós-graduação em Arquitetura de Soluções pela FIAP, onde aprofundei minhas habilidades no planejamento de sistemas robustos e escaláveis.
 </p>
+
 ____________________________________________________________________________________________________________________________________________
 </br>
-
 <p align="center">
 
 **Linguagens de Programação**
