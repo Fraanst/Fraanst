@@ -20,7 +20,7 @@
 namespace Profile {
     public class Francine {
         public string Role = "Backend Developer & Solution Architect";
-        public string Education = "Pós-graduação em Arquitetura de Soluções (FIAP)";
+        public string Education = "MBA em Arquitetura de Soluções (FIAP)";
         public string CurrentFocus = "Building robust & distributed systems";
         public string[] Passions = { "Clean Code", "Cloud Computing", "Horror Games" };
     }
