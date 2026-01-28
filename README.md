@@ -1,6 +1,8 @@
 <h2 align="center">Francine Stramantinoli 🦄 </h2>
 <br/>
-<h4 align="center">Software Engineer • Backend • Cloud</h4>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=17&pause=900&color=7CFFB2&background=0D1117&center=true&vCenter=true&width=650&lines=$+sudo+apt+install+github+fran;$+Setting+up+fran...;$+Done.;$+Backend+%7C+Cloud+%7C+Distributed+Systems" />
+</p>
 <br/>
 <p align="left"> 
 Sou desenvolvedora back-end focada no desenvolvimento de sistemas utilizando .NET. 
@@ -9,24 +11,6 @@ Possuo pós-graduação em Arquitetura de Soluções pela FIAP, onde aprofundei 
 
 ____________________________________________________________________________________________________________________________________________
 
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?
-    font=JetBrains+Mono
-    &size=18
-    &duration=2000
-    &pause=1000
-    &color=00E5A8
-    &background=0D1117
-    &center=true
-    &vCenter=true
-    &width=620
-    &height=80
-    &lines=$+Hello+World;$+Eu+sou+a+Fran"
-    alt="Terminal Typing"
-  />
-</p>
 
 ---
 
