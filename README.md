@@ -1,9 +1,7 @@
-<h2 align="center">Francine Stramantinoli 🦄 • Cloud</h2>
+<h2 align="center">Francine Stramantinoli 🦄 </h2>
 <br/>
-<h2 align="center">Software Engineer • Backend • Cloud</h2>
-
+<h4 align="center">Software Engineer • Backend • Cloud</h4>
 <br/>
-
 <p align="left"> 
 Sou desenvolvedora back-end focada no desenvolvimento de sistemas utilizando .NET. 
 Possuo pós-graduação em Arquitetura de Soluções pela FIAP, onde aprofundei minhas habilidades no planejamento de sistemas robustos e escaláveis.
